@@ -1,2 +1,3 @@
-# next.js-exercises
-Next.js Exercises
+# Next.js Exercises
+
+Description will be soon...
